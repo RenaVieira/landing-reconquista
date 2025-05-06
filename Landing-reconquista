@@ -1,0 +1,56 @@
+<!DOCTYPE html><html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reconquista Rápida - E-book</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-gray-800 font-sans">
+  <header class="bg-gradient-to-r from-pink-500 to-red-500 text-white py-10 text-center">
+    <h1 class="text-4xl font-bold">Reconquista Rápida</h1>
+    <p class="text-lg mt-2">O Guia Para Ter Seu Amor de Volta, Mesmo que Pareça Tarde Demais</p>
+  </header>  <section class="max-w-4xl mx-auto px-4 py-10">
+    <div class="grid md:grid-cols-2 gap-10 items-center">
+      <img src="https://via.placeholder.com/400x500?text=E-book+Reconquista" alt="Capa do e-book" class="rounded-lg shadow-lg">
+      <div>
+        <h2 class="text-2xl font-bold mb-4">O que você vai aprender:</h2>
+        <ul class="list-disc list-inside space-y-2">
+          <li>Como reverter o término mesmo que ele(a) diga que está feliz sem você</li>
+          <li>Mensagens e atitudes que despertam saudade de verdade</li>
+          <li>Erros comuns que afastam a reconciliação (e como evitar)</li>
+          <li>Passo a passo prático para reconquistar com inteligência emocional</li>
+        </ul>
+      </div>
+    </div>
+  </section>  <section class="bg-gray-100 py-10">
+    <div class="max-w-4xl mx-auto px-4">
+      <h3 class="text-xl font-semibold mb-4">Bônus Exclusivo</h3>
+      <p class="mb-2">Ao adquirir hoje, você leva também o mini e-book <strong>"Mensagens Que Reacendem a Paixão"</strong> totalmente grátis!</p>
+      <h3 class="text-xl font-semibold mt-6 mb-2">Garantia Incondicional</h3>
+      <p>Você tem <strong>7 dias</strong> para pedir seu dinheiro de volta se achar que o conteúdo não ajudou você em nada. Sem perguntas.</p>
+    </div>
+  </section>  <section class="max-w-4xl mx-auto px-4 py-10">
+    <h3 class="text-2xl font-bold text-center mb-8">Depoimentos Reais</h3>
+    <div class="grid md:grid-cols-3 gap-6">
+      <div class="bg-white p-4 shadow rounded">
+        <p class="italic">"Achei que era impossível, mas depois de aplicar os passos, meu ex voltou a falar comigo em menos de uma semana!"</p>
+        <p class="mt-2 font-semibold text-sm">— Larissa M.</p>
+      </div>
+      <div class="bg-white p-4 shadow rounded">
+        <p class="italic">"Simplesmente incrível. Me fez entender tudo que eu estava fazendo errado."</p>
+        <p class="mt-2 font-semibold text-sm">— João P.</p>
+      </div>
+      <div class="bg-white p-4 shadow rounded">
+        <p class="italic">"Hoje estamos juntos de novo, e melhor que antes. Gratidão eterna!"</p>
+        <p class="mt-2 font-semibold text-sm">— Marina F.</p>
+      </div>
+    </div>
+  </section>  <section class="bg-pink-500 text-white py-10 text-center">
+    <h3 class="text-3xl font-bold mb-4">Adquira Agora por Apenas R$29,90</h3>
+    <p class="mb-6">A mudança começa com uma decisão. Clique no botão abaixo e fale comigo no WhatsApp agora mesmo.</p>
+    <a href="https://wa.me/SEUNUMERO" target="_blank" class="bg-white text-pink-600 font-bold px-6 py-3 rounded-full shadow-lg hover:bg-gray-100 transition">Quero Reconquistar Agora</a>
+  </section>  <footer class="bg-gray-800 text-white text-center py-6 text-sm">
+    <p>&copy; 2025 Reconquista Rápida. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
